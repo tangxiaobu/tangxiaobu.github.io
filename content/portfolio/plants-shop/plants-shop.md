@@ -36,9 +36,11 @@ Designed 7 pages for product structure and functions.
 
 ## Design system
 **Style**
-Planty, greenery vibe, minimalist and elegant.
+Planty, greenery vibe, minimalist and elegant.  
+
 **Color palette**
-![Color palette](/content/portfolio/plants-shop/color.png)
+![Color palette](/content/portfolio/plants-shop/color.png)   
+
 **Fonts**
 Space Grotesk
 
