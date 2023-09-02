@@ -21,8 +21,7 @@ catagories:
 5. [Functionalites](#functionalites)
 
 ## Preview interface
----image
-![](/content/portfolio/preview.jpg)
+![Home page preview](/content/portfolio/plants-shop/homepage.png)
 
 ## Introduction
 **An ecommerce-website for indoor, outdoor plants and plant decorations**. 
@@ -39,7 +38,7 @@ Designed 7 pages for product structure and functions.
 **Style**
 Planty, greenery vibe, minimalist and elegant.
 **Color palette**
----img
+![Color palette](/content/portfolio/plants-shop/color.png)
 **Fonts**
 Space Grotesk
 
