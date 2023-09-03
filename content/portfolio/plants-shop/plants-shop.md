@@ -18,7 +18,6 @@ categories:
 **An ecommerce-website for indoor, outdoor plants and plant decorations**. 
 This is an website builted by 4 people in the first semester for final assignment. In this website, we offer services including plants and related products, information and advice for decorating and caring of the plants.
 
-
 ## Preview interface
 ![Home page preview](/img/homepage.png)
 *[Visit the website](https://coruscating-zuccutto-dc36f8.netlify.app/)*
