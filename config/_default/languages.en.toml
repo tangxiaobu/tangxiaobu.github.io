@@ -2,7 +2,7 @@ languageCode = "en"
 languageName = "English"
 weight = 1
 
-title = "Celia"
+title = "This is Celia"
 # copyright = "Copy, _right?_ :thinking_face:"
 
 [params]
@@ -18,7 +18,7 @@ title = "Celia"
 [author]
   name = "Celia"
   image = "img/author.jpg"
-  headline = "Hello! I am Celia, Junior web-developer."
+  headline = "Hello! I am Celia, Thank you for visit my site!"
   bio = "Web-development student"
   links = [
   { email = "tang0240@algonquinlive.com" },

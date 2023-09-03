@@ -5,4 +5,25 @@ draft: false
 summary: "Hello! I am Celia."
 ---
 
-hello world!
+*Here is a little about me:*
+
+Junior web-developer | Student | Ottawa | Outdoor activites
+
+Learning:
+>- Database
+
+>- JavaScript
+>- C#
+>- Python
+>- React
+>- PHP
+
+>- CSS
+>- HTML
+>- Bootstrap
+>- Figma
+
+>- PhotoShop
+>- Illustrator
+
+
