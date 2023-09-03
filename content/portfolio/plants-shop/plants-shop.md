@@ -12,6 +12,8 @@ categories:
 - CSS
 - JavaScript
 ---
+
+
 ## Introduction
 **An ecommerce-website for indoor, outdoor plants and plant decorations**. 
 This is an website builted by 4 people in the first semester for final assignment. In this website, we offer services including plants and related products, information and advice for decorating and caring of the plants.
@@ -19,8 +21,7 @@ This is an website builted by 4 people in the first semester for final assignmen
 
 ## Preview interface
 ![Home page preview](/img/homepage.png)
-
-
+*[Visit the website](https://coruscating-zuccutto-dc36f8.netlify.app/)*
 
 ## Structure
 Designed 7 pages for product structure and functionalites.
@@ -49,5 +50,5 @@ General activites included on this website are :
 
 Technics used for achieve the functionalites:
 
-- CSS : variables and media query were used to achieve the responsive design.
-- JavaScript: activities such as dark mode toggle, adding items to the shopping cart, sign up and login accounts, remember behaviour through local storage were accomplished by using JavaScript.
+- CSS : utilized CSS variables and media queries to achieve responsive design.
+- JavaScript: implemented JavaScript for features such as dark mode toggle, adding items to the shopping cart, user account management (sign up and login), and retaining user behavior through local storage.
