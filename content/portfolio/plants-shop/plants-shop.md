@@ -21,6 +21,7 @@ This is an website builted by 4 people in the first semester for final assignmen
 ## Preview interface
 ![Home page preview](/img/homepage.png)
 
+## Visit
 *[Visit the website](https://coruscating-zuccutto-dc36f8.netlify.app/)*
 
 ## Structure
