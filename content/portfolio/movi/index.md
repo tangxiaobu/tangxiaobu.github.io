@@ -2,7 +2,7 @@
 title: "Movi: movie community, built for movie enthusiasts"
 date: 2023-08-29T15:12:36-04:00
 draft: false
-summary: "A prototype website design"
+summary: "A prototype website design for movie lovers to share ideas and connect with others"
 tags:
 - Website design
 - Teamwork
@@ -47,7 +47,7 @@ Merriweather and Lusitana
 for italic and bold.
 Monoton for logo design
 ![Typography](/img/movifont.jpg)  
-## Functionalites ?
+## Design features
 - Components
 - Autolayout
 - Low fidelity wireframe

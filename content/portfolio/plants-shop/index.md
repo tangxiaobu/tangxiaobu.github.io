@@ -1,5 +1,5 @@
 ---
-title: "SummerPlanting: An ecommerce-website for plants"
+title: "SummerPlanting: an ecommerce-website for plants"
 date: 2023-08-29T15:12:36-04:00
 draft: false
 summary: "An ecommerce-website for indoor, outdoor plants and plant decorations"
@@ -21,7 +21,6 @@ This is an website builted by 4 people in the first semester for final assignmen
 ## Preview interface
 ![Home page preview](/img/homepage.png)
 
-## Visit
 *[Visit the website](https://coruscating-zuccutto-dc36f8.netlify.app/)*
 
 ## Structure
@@ -32,12 +31,14 @@ Designed 7 pages for product structure and functionalites.
 - User signup page for building user communites.
 
 ## Design system
-**Style**
+**Style**   
+
 Planty, greenery vibe, minimalist and elegant.  
 
 **Color palette**
 ![Color palette](/img/color.png)   
-**Typography**
+**Typography**   
+
 Space Grotesk
 
 ## Functionalites 
@@ -48,6 +49,8 @@ General activites included on this website are :
 3. Add items in the shopping cart and check out
 4. Join the communite, receive news and updates by signup or login
 5. Social info links, FAQs, and Delivery sections  
+
+![Sign up page](/img/plantsignup.jpg)   
 
 Technics used for achieve the functionalites:
 
