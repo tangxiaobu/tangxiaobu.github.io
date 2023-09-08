@@ -8,20 +8,29 @@
     <language>en</language>
     <lastBuildDate>Tue, 29 Aug 2023 15:12:36 -0400</lastBuildDate><atom:link href="https://tangxiaobu.github.io/tags/design/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>SummerPlanting: An ecommerce-website for plants</title>
-      <link>https://tangxiaobu.github.io/portfolio/plants-shop/plants-shop/</link>
+      <title>Pitch Jams: a website to crowdfund your ideas</title>
+      <link>https://tangxiaobu.github.io/portfolio/pitch-jams/</link>
       <pubDate>Tue, 29 Aug 2023 15:12:36 -0400</pubDate>
       
-      <guid>https://tangxiaobu.github.io/portfolio/plants-shop/plants-shop/</guid>
+      <guid>https://tangxiaobu.github.io/portfolio/pitch-jams/</guid>
+      <description>It was a hackathon project to turn an employer&amp;rsquo;s idea into a prototype webpage in 2 days. Our 4-member student team won the first place in the program and $1000 in prize money.</description>
+    </item>
+    
+    <item>
+      <title>SummerPlanting: an ecommerce-website for plants</title>
+      <link>https://tangxiaobu.github.io/portfolio/plants-shop/</link>
+      <pubDate>Tue, 29 Aug 2023 15:12:36 -0400</pubDate>
+      
+      <guid>https://tangxiaobu.github.io/portfolio/plants-shop/</guid>
       <description>An ecommerce-website for indoor, outdoor plants and plant decorations</description>
     </item>
     
     <item>
       <title>Wonder World: An app icon designed for a children&#39;s publisher</title>
-      <link>https://tangxiaobu.github.io/portfolio/icon-design/wonderworld/</link>
+      <link>https://tangxiaobu.github.io/portfolio/icon-design/</link>
       <pubDate>Tue, 29 Aug 2023 15:12:36 -0400</pubDate>
       
-      <guid>https://tangxiaobu.github.io/portfolio/icon-design/wonderworld/</guid>
+      <guid>https://tangxiaobu.github.io/portfolio/icon-design/</guid>
       <description>A logo designed for a children&amp;rsquo;s publisher</description>
     </item>
     
