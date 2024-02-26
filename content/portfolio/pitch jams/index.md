@@ -14,6 +14,11 @@ categories:
 
 ## Background
 This is the result of a hackathon, where three other 3 team members and I built a demo of an “idea sharing and crowdfunding platform” from 0 to 1 using Figma.Got 1st prize with $1000 award.
+Group assignment by 
+- <u>{{< icon "linkedin" >}}[Celia]( https://www.linkedin.com/in/xiaoyi-tang-670a22228/)</u> 
+- <u>{{< icon "github" >}}[Iris](https://github.com/Iriswang0916)</u> 
+- <u>{{< icon "link" >}}[Jerome](https://hitori.rocks/)</u>
+- <u>{{< icon "link" >}}[Leon](https://cestduleon.dev/)</u>
 
 ## Introduction
 Pitch Jams is a website for ideaters to upload video pitches and share with community/audience, especially future investors. Mainly targeting students and other young people, by providing a platform to share ideas, so that more creative ideas have the possibility of being realized.
