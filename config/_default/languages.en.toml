@@ -17,7 +17,7 @@ title = "This is Celia"
 
 [author]
   name = "Celia"
-  image = "img/author.jpg"
+  image = "content/author.jpg"
   headline = "Hello! I am Celia, Thank you for visiting my site!"
   bio = "Web-development student"
   links = [

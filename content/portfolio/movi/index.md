@@ -40,7 +40,7 @@ For the background and font
 color we used the more 
 neutral color as listed under 
 Background and Font color.
-![Color palette](/img/movicolor.jpg)  
+![Color palette](movicolor.jpg)  
 
 **Typography**   
 
