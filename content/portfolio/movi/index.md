@@ -49,7 +49,7 @@ Serif as our standard font.
 Merriweather and Lusitana 
 for italic and bold.
 Monoton for logo design
-![Typography](/img/movi-font.jpg)  
+![Typography](movifont.jpg)
 ## Design features
 - Components
 - Autolayout
