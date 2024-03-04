@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Website design on This is Celia</title>
+    <link>https://tangxiaobu.github.io/tags/website-design/</link>
+    <description>Recent content in Website design on This is Celia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 29 Aug 2023 15:12:36 -0400</lastBuildDate><atom:link href="https://tangxiaobu.github.io/tags/website-design/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Movi: movie community, built for movie enthusiasts</title>
+      <link>https://tangxiaobu.github.io/portfolio/movi/</link>
+      <pubDate>Tue, 29 Aug 2023 15:12:36 -0400</pubDate>
+      
+      <guid>https://tangxiaobu.github.io/portfolio/movi/</guid>
+      <description>A prototype website design for movie lovers to share ideas and connect with others</description>
+    </item>
+    
+  </channel>
+</rss>
