@@ -37,7 +37,7 @@ Designed 7 pages for product structure and functionalites.
 Planty, greenery vibe, minimalist and elegant.  
 
 **Color palette**
-![Color palette](assets/img/color.png)   
+![Color palette](/img/color.png)   
 **Typography**   
 
 Space Grotesk
@@ -51,7 +51,7 @@ General activites included on this website are :
 4. Join the communite, receive news and updates by signup or login
 5. Social info links, FAQs, and Delivery sections  
 
-![Sign up page](assets/img/plantsignup.jpg)   
+![Sign up page](/img/plantsignup.jpg)   
 
 Technics used for achieve the functionalites:
 
