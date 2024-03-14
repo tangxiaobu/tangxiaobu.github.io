@@ -10,10 +10,11 @@ summary: "Hello! I am Celia."
 **Junior web-developer | Student | Ottawa | Outdoor activites**
 
 
+- JavaScript | C# | Python | PHP \
+  CSS | HTML 
+- Bootstrap | React 
+- PhotoShop | Illustrator | Figma
 - Database
-- JavaScript | C# | Python | React | PHP 
-- CSS | HTML | Bootstrap | Figma
-- PhotoShop | Illustrator
 
 
 
