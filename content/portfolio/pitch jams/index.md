@@ -71,3 +71,7 @@ Created multiple user interactions with impressive and unique UX/UI to serve for
 - team building
 - storytelling
 
+#### Content modified on the original work of :
+- <u>{{< icon "link" >}}[Jerome](https://hitori.rocks/)</u>
+- <u>{{< icon "link" >}}[Leon](https://cestduleon.dev/)</u>
+
