@@ -4,7 +4,7 @@ date: 2023-08-29T15:12:36-04:00
 draft: false
 summary: "Hello! I am Celia."
 ---
-author.jpg
+(author.jpg)
 *Here is a little about me:*
 
 **Junior web-developer | Ottawa | Outdoor activites**
